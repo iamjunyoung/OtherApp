@@ -1,0 +1,184 @@
+{
+	"floors": {
+		"SNUH_SEOUL_DH_B2": {
+			"name": {
+				"en": "B2",
+				"kr": "지하2층"
+			},
+			"order": -2,
+			"customPointData": {
+				"5f6b4ce9-2458-4a96-8113-1aef6b74617f": {
+					"attributes": {
+						"elevatorID": "0012312"
+                        "elevatorVendor": 3
+					    "elvatorFloorList": "Mitsubishi"
+					},
+					"radius": 3,
+					"isRestricted": 0,
+					"name": {
+						"kr": "엘레베이터"
+					},
+					"pos": {
+						"x": 1006,
+						"y": -1300
+					},
+					"theta": 0,
+					"type": 3
+				},
+				"e3e161fc-6c86-482c-8365-9afadd41bc3d": {
+					"attributes": {
+					    "tel":"02-111-2222"
+					},
+					"radius": 3,
+					"isRestricted": 0,
+					"name": {
+						"kr": "관리자"
+					},
+					"pos": {
+						"x": 1011,
+						"y": -1395
+					},
+					"theta": 0,
+					"type": 0
+				}
+				"e3e161fc-6c86-482c-8365-9afadd41bc35": {
+					"attributes": {
+					    "desc":"채혈실, 최종으로 배송된 검체를 수거하는 곳"
+					    "tel":"02-111-2222"
+					},
+					"radius": 3,
+					"isRestricted": 0,
+					"name": {
+						"kr": "채혈실"
+					},
+					"pos": {
+						"x": 1011,
+						"y": -1395
+					},
+					"theta": 0,
+					"type": 100
+				}			  
+			}
+		},
+		"SNUH_SEOUL_DH_B1": {
+			"name": {
+				"en": "B1",
+				"kr": "지하1층"
+			},
+			"order": -1,
+			"customPointData": {
+				"5f6b4ce9-2458-4a96-8113-1aef6b74617f": {
+					"attributes": {
+						"elevatorID": "0012312"
+                        "elevatorVendor": 3
+					    "elvatorFloorList": "Mitsubishi"
+					},
+					"radius": 3,
+					"isRestricted": 0,
+					"name": {
+						"kr": "엘레베이터"
+					},
+					"pos": {
+						"x": 1006,
+						"y": -1300
+					},
+					"theta": 0,
+					"type": 3
+				},
+				"e3e161fc-6c86-482c-8365-9afadd41bc3d": {
+					"attributes": {
+					    "tel":"02-111-2222"
+					},
+					"radius": 3,
+					"isRestricted": 0,
+					"name": {
+						"kr": "관리자"
+					},
+					"pos": {
+						"x": 1011,
+						"y": -1395
+					},
+					"theta": 0,
+					"type": 0
+				}
+				"e3e161fc-6c86-482c-8365-9afadd41bc35": {
+					"attributes": {
+					    "desc":"채혈실, 최종으로 배송된 검체를 수거하는 곳"
+					    "tel":"02-111-2222"
+					},
+					"radius": 3,
+					"isRestricted": 0,
+					"name": {
+						"kr": "채혈실"
+					},
+					"pos": {
+						"x": 1011,
+						"y": -1395
+					},
+					"theta": 0,
+					"type": 100
+				}			  
+			}
+		},
+		"SNUH_SEOUL_DH_F1": {
+			"name": {
+				"en": "F1",
+				"kr": "1층"
+			},
+			"order": 1,
+			"customPointData": {
+				"5f6b4ce9-2458-4a96-8113-1aef6b74617f": {
+					"attributes": {
+						"elevatorID": "0012312"
+                        "elevatorVendor": 3
+					    "elvatorFloorList": "Mitsubishi"
+					},
+					"radius": 3,
+					"isRestricted": 0,
+					"name": {
+						"kr": "엘레베이터"
+					},
+					"pos": {
+						"x": 1006,
+						"y": -1300
+					},
+					"theta": 0,
+					"type": 3
+				},
+				"e3e161fc-6c86-482c-8365-9afadd41bc3d": {
+					"attributes": {
+					    "tel":"02-111-2222"
+					},
+					"radius": 3,
+					"isRestricted": 0,
+					"name": {
+						"kr": "관리자"
+					},
+					"pos": {
+						"x": 1011,
+						"y": -1395
+					},
+					"theta": 0,
+					"type": 0
+				}
+				"e3e161fc-6c86-482c-8365-9afadd41bc35": {
+					"attributes": {
+					    "desc":"채혈실, 최종으로 배송된 검체를 수거하는 곳"
+					    "tel":"02-111-2222"
+					},
+					"radius": 3,
+					"isRestricted": 0,
+					"name": {
+						"kr": "채혈실"
+					},
+					"pos": {
+						"x": 1011,
+						"y": -1395
+					},
+					"theta": 0,
+					"type": 100
+				}			  
+			}
+		}
+	}
+};

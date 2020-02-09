@@ -6,36 +6,57 @@
     android:layout_height="match_parent"
     tools:context="com.bbeaggoo.otherapp.MainActivity">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
-    <LinearLayout
+    <ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:orientation="vertical">
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
 
-    <Button
-        android:id="@+id/startService"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="StartOtherAppService"
-        tools:layout_editor_absoluteX="30dp"
-        tools:layout_editor_absoluteY="3dp"
+            <Button
+                android:id="@+id/startService"
+                 android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="StartOtherAppService"
+                tools:layout_editor_absoluteX="30dp"
+                tools:layout_editor_absoluteY="3dp"
 
-        android:onClick="onClick"/>
-    <Button
-        android:id="@+id/stopService"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="StartOtherAppService"
-        tools:layout_editor_absoluteX="30dp"
-        tools:layout_editor_absoluteY="3dp"
-        android:onClick="onClick"/>
-    </LinearLayout>
+                android:onClick="onClick"/>
+            <Button
+                android:id="@+id/stopService"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="StartOtherAppService"
+                tools:layout_editor_absoluteX="30dp"
+                tools:layout_editor_absoluteY="3dp"
+                android:onClick="onClick"/>
+            <Button
+                android:id="@+id/jsonTest"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Json test"
+                tools:layout_editor_absoluteX="30dp"
+                tools:layout_editor_absoluteY="3dp"
+                android:onClick="onClick"/>
+                <TextView
+                    android:gravity="center_horizontal"
+                    android:text="Status output"
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+
+                <LinearLayout
+                    android:id="@+id/container"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:paddingTop="10sp"
+                    tools:context=".RealmIntroExample" />
+        </LinearLayout>
+    </ScrollView>
+
 </android.support.constraint.ConstraintLayout>

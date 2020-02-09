@@ -1,0 +1,1937 @@
+{
+  "buildingID": "seoul_dh",
+  "customerID": "snuhdoctors",
+  "payload": {
+    "floors": {
+      "SNUH_SEOUL_DH_B2": {
+        "customAreaData": {
+
+        },
+        "customAreaUrl": "seoul/dh/b2/ca_snuh_dh_b2.svg",
+        "floorMapUrl": "seoul/dh/b2/snuh_dh_b2.svg",
+        "name": {
+          "en": "B2",
+          "kr": "지하2층"
+        },
+        "naviMapUrl": "seoul/dh/b2/node_snuh_dh_b2.txt",
+        "order": -2,
+        "poiData": {
+          "ESCAL_x5F_2": {
+            "attributes": {
+              "type": "2"
+            },
+            "name": {
+              "kr": "에스컬레이터"
+            }
+          },
+          "LIFT_x5F_P_x5F_0": {
+            "attributes": {
+              "type": "3"
+            },
+            "name": {
+              "kr": "엘레베이터"
+            }
+          },
+          "LIFT_x5F_P_x5F_1": {
+            "attributes": {
+              "type": "3"
+            },
+            "name": {
+              "kr": "엘레베이터"
+            }
+          },
+          "LIFT_x5F_P_x5F_2": {
+            "attributes": {
+              "type": "3"
+            },
+            "name": {
+              "kr": "엘레베이터"
+            }
+          },
+          "LIFT_x5F_P_x5F_3": {
+            "attributes": {
+              "type": "3"
+            },
+            "name": {
+              "kr": "엘레베이터"
+            }
+          },
+          "LIFT_x5F_P_x5F_4": {
+            "attributes": {
+              "type": "3"
+            },
+            "name": {
+              "kr": "엘레베이터"
+            }
+          },
+          "LIFT_x5F_P_x5F_5": {
+            "attributes": {
+              "type": "3"
+            },
+            "name": {
+              "kr": "엘레베이터"
+            }
+          },
+          "LIFT_x5F_P_x5F_6": {
+            "attributes": {
+              "type": "3"
+            },
+            "name": {
+              "kr": "엘레베이터"
+            }
+          },
+          "LIFT_x5F_P_x5F_7": {
+            "attributes": {
+              "type": "3"
+            },
+            "name": {
+              "kr": "엘레베이터"
+            }
+          },
+          "LIFT_x5F_W_x5F_1": {
+            "attributes": {
+              "type": "3"
+            },
+            "name": {
+              "kr": "화물 엘레베이터"
+            }
+          },
+          "POI-B2417": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실12"
+            }
+          },
+          "POI_x5F_2242": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "PS"
+            }
+          },
+          "POI_x5F_2316": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "내과수간호사"
+            }
+          },
+          "POI_x5F_B2012": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "쇄석기실"
+            }
+          },
+          "POI_x5F_B2101": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "통합예약창구"
+            }
+          },
+          "POI_x5F_B2101-1": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "정자은행"
+            }
+          },
+          "POI_x5F_B2102-1": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "조정실"
+            }
+          },
+          "POI_x5F_B2103": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "UDS"
+            }
+          },
+          "POI_x5F_B2104": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "FUDS"
+            }
+          },
+          "POI_x5F_B2104-1": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "조정실"
+            }
+          },
+          "POI_x5F_B2105": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "방광경검사실"
+            }
+          },
+          "POI_x5F_B2106": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "소독물실"
+            }
+          },
+          "POI_x5F_B2107": {
+            "attributes": {
+              "type": "4"
+            },
+            "name": {
+              "kr": "화장실(남)"
+            }
+          },
+          "POI_x5F_B2108": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "방광경수술실"
+            }
+          },
+          "POI_x5F_B2109": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "비소독물실"
+            }
+          },
+          "POI_x5F_B2110": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "탈의실(남)"
+            }
+          },
+          "POI_x5F_B2111": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "탈의실(여)"
+            }
+          },
+          "POI_x5F_B2112": {
+            "attributes": {
+              "type": "4"
+            },
+            "name": {
+              "kr": "화장실(남)"
+            }
+          },
+          "POI_x5F_B2113": {
+            "attributes": {
+              "type": "5"
+            },
+            "name": {
+              "kr": "화장실(여)"
+            }
+          },
+          "POI_x5F_B2114": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "다용도실"
+            }
+          },
+          "POI_x5F_B2115": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "비뇨의학과간호사실"
+            }
+          },
+          "POI_x5F_B2116": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "요류및잔료측정실"
+            }
+          },
+          "POI_x5F_B2117": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "초음파실"
+            }
+          },
+          "POI_x5F_B2118": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실8"
+            }
+          },
+          "POI_x5F_B2119": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "처치실2"
+            }
+          },
+          "POI_x5F_B2119-1": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실8"
+            }
+          },
+          "POI_x5F_B2120": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "성의학"
+            }
+          },
+          "POI_x5F_B2120-1": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "검사실2"
+            }
+          },
+          "POI_x5F_B2120-2": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "검사실1"
+            }
+          },
+          "POI_x5F_B2121": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "EPS"
+            }
+          },
+          "POI_x5F_B2123": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실7"
+            }
+          },
+          "POI_x5F_B2124": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료상담실"
+            }
+          },
+          "POI_x5F_B2125": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "물품보관실"
+            }
+          },
+          "POI_x5F_B2126": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "처치실1"
+            }
+          },
+          "POI_x5F_B2127": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실6"
+            }
+          },
+          "POI_x5F_B2128": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실5"
+            }
+          },
+          "POI_x5F_B2129": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "배뇨교육실"
+            }
+          },
+          "POI_x5F_B2130": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "요실금치료실"
+            }
+          },
+          "POI_x5F_B2131": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "바이오피드백검사실"
+            }
+          },
+          "POI_x5F_B2132": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "투석액교환실"
+            }
+          },
+          "POI_x5F_B2133": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "비소독물실"
+            }
+          },
+          "POI_x5F_B2134": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "처치실1"
+            }
+          },
+          "POI_x5F_B2135": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "처치실2"
+            }
+          },
+          "POI_x5F_B2136": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "물품보관실"
+            }
+          },
+          "POI_x5F_B2137": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "복막투석실"
+            }
+          },
+          "POI_x5F_B2138": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "교육간호사실"
+            }
+          },
+          "POI_x5F_B2139": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "신장교육실"
+            }
+          },
+          "POI_x5F_B2140": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "영양사실"
+            }
+          },
+          "POI_x5F_B2141": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실4"
+            }
+          },
+          "POI_x5F_B2142": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실3"
+            }
+          },
+          "POI_x5F_B2143": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실2"
+            }
+          },
+          "POI_x5F_B2144": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실1"
+            }
+          },
+          "POI_x5F_B2145": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "간호사실"
+            }
+          },
+          "POI_x5F_B2146": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "다용도실"
+            }
+          },
+          "POI_x5F_B2147": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "물품보관실"
+            }
+          },
+          "POI_x5F_B2148": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "전산실"
+            }
+          },
+          "POI_x5F_B2149": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "TPS"
+            }
+          },
+          "POI_x5F_B2150": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "EPS"
+            }
+          },
+          "POI_x5F_B2201": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실23"
+            }
+          },
+          "POI_x5F_B2202": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실24"
+            }
+          },
+          "POI_x5F_B2203": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실25"
+            }
+          },
+          "POI_x5F_B2204": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실26"
+            }
+          },
+          "POI_x5F_B2205": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실27"
+            }
+          },
+          "POI_x5F_B2206": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "물품보관실"
+            }
+          },
+          "POI_x5F_B2207": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "혈관검사실"
+            }
+          },
+          "POI_x5F_B2207_x5F_2": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "탕비실"
+            }
+          },
+          "POI_x5F_B2208": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "알레르기검사실"
+            }
+          },
+          "POI_x5F_B2209": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "비내시경"
+            }
+          },
+          "POI_x5F_B2210": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "간편폐기능검사실"
+            }
+          },
+          "POI_x5F_B2211": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "피부검사실"
+            }
+          },
+          "POI_x5F_B2212": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "운동유발검사실"
+            }
+          },
+          "POI_x5F_B2213": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "면역치료실"
+            }
+          },
+          "POI_x5F_B2214": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "다학제진료실"
+            }
+          },
+          "POI_x5F_B2215": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "영양상담실1"
+            }
+          },
+          "POI_x5F_B2216": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "영양상담실2"
+            }
+          },
+          "POI_x5F_B2217": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "당뇨교육실"
+            }
+          },
+          "POI_x5F_B2219": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실28"
+            }
+          },
+          "POI_x5F_B2220": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "처치실"
+            }
+          },
+          "POI_x5F_B2221": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실29"
+            }
+          },
+          "POI_x5F_B2222": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실30"
+            }
+          },
+          "POI_x5F_B2223": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실31"
+            }
+          },
+          "POI_x5F_B2224": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실13"
+            }
+          },
+          "POI_x5F_B2225": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실14"
+            }
+          },
+          "POI_x5F_B2226": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실15"
+            }
+          },
+          "POI_x5F_B2227": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실16(상담실)"
+            }
+          },
+          "POI_x5F_B2228": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "계측실3"
+            }
+          },
+          "POI_x5F_B2229": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "통합예약창구2"
+            }
+          },
+          "POI_x5F_B2231": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "물품보관실"
+            }
+          },
+          "POI_x5F_B2232": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "비소독물실"
+            }
+          },
+          "POI_x5F_B2233": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "다용도실"
+            }
+          },
+          "POI_x5F_B2234": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실17"
+            }
+          },
+          "POI_x5F_B2235_1_": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실18"
+            }
+          },
+          "POI_x5F_B2236": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실19"
+            }
+          },
+          "POI_x5F_B2237": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실20"
+            }
+          },
+          "POI_x5F_B2238": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실21"
+            }
+          },
+          "POI_x5F_B2239": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실22"
+            }
+          },
+          "POI_x5F_B2240": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "통합예약창구3"
+            }
+          },
+          "POI_x5F_B2241": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "A/V실"
+            }
+          },
+          "POI_x5F_B2243": {
+            "attributes": {
+              "type": "4"
+            },
+            "name": {
+              "kr": "공용화장실(남)"
+            }
+          },
+          "POI_x5F_B2243_x5F_2": {
+            "attributes": {
+              "type": "4"
+            },
+            "name": {
+              "kr": "장애인화장실(남)"
+            }
+          },
+          "POI_x5F_B2245": {
+            "attributes": {
+              "type": "4"
+            },
+            "name": {
+              "kr": "공용화장실(여)"
+            }
+          },
+          "POI_x5F_B2245_x5F_2": {
+            "attributes": {
+              "type": "5"
+            },
+            "name": {
+              "kr": "장애인화장실(여)"
+            }
+          },
+          "POI_x5F_B2301": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실1"
+            }
+          },
+          "POI_x5F_B2302": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실2"
+            }
+          },
+          "POI_x5F_B2303": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실3"
+            }
+          },
+          "POI_x5F_B2304": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "계측실1"
+            }
+          },
+          "POI_x5F_B2305": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "내분비센터검사실"
+            }
+          },
+          "POI_x5F_B2305-1": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "안저촬영실"
+            }
+          },
+          "POI_x5F_B2305-2": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "체지방검사실"
+            }
+          },
+          "POI_x5F_B2305-3": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "동맥경화자율신경검사실"
+            }
+          },
+          "POI_x5F_B2305-4": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "초음파검사실"
+            }
+          },
+          "POI_x5F_B2305-5": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "감각신경검사실"
+            }
+          },
+          "POI_x5F_B2305-6": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "혈액역동검사실"
+            }
+          },
+          "POI_x5F_B2305-7": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "비소독"
+            }
+          },
+          "POI_x5F_B2306": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실4"
+            }
+          },
+          "POI_x5F_B2307": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실5"
+            }
+          },
+          "POI_x5F_B2308": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실6"
+            }
+          },
+          "POI_x5F_B2309": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실7"
+            }
+          },
+          "POI_x5F_B2310": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "통합예약창구1"
+            }
+          },
+          "POI_x5F_B2311": {
+            "attributes": {
+              "type": "4"
+            },
+            "name": {
+              "kr": "화장실(남)"
+            }
+          },
+          "POI_x5F_B2312": {
+            "attributes": {
+              "type": "5"
+            },
+            "name": {
+              "kr": "화장실(여)"
+            }
+          },
+          "POI_x5F_B2313": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "내과설명간호사"
+            }
+          },
+          "POI_x5F_B2314": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "내과간호사실"
+            }
+          },
+          "POI_x5F_B2317": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "물품보관실1"
+            }
+          },
+          "POI_x5F_B2318": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실8(상담실)"
+            }
+          },
+          "POI_x5F_B2319": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실9"
+            }
+          },
+          "POI_x5F_B2320": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실10"
+            }
+          },
+          "POI_x5F_B2321": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실11"
+            }
+          },
+          "POI_x5F_B2322": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실12"
+            }
+          },
+          "POI_x5F_B2323": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "물품보관실"
+            }
+          },
+          "POI_x5F_B2327": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "주사치료실1"
+            }
+          },
+          "POI_x5F_B2328": {
+            "attributes": {
+              "type": "5"
+            },
+            "name": {
+              "kr": "화장실(여)"
+            }
+          },
+          "POI_x5F_B2329": {
+            "attributes": {
+              "type": "4"
+            },
+            "name": {
+              "kr": "화장실(남)"
+            }
+          },
+          "POI_x5F_B2330": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "처치실2"
+            }
+          },
+          "POI_x5F_B2331": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "처치실1"
+            }
+          },
+          "POI_x5F_B2332": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "환자탈의실"
+            }
+          },
+          "POI_x5F_B2333": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "비소독물실"
+            }
+          },
+          "POI_x5F_B2335": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "물품보관실"
+            }
+          },
+          "POI_x5F_B2336": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "다용도실"
+            }
+          },
+          "POI_x5F_B2337": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "조제실"
+            }
+          },
+          "POI_x5F_B2338": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "물품보관실"
+            }
+          },
+          "POI_x5F_B2339": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "산제조제실"
+            }
+          },
+          "POI_x5F_B2340": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "투약구"
+            }
+          },
+          "POI_x5F_B2341": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "갱의실"
+            }
+          },
+          "POI_x5F_B2342": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "복약상담실"
+            }
+          },
+          "POI_x5F_B2343": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "투약대기실"
+            }
+          },
+          "POI_x5F_B2344": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "접수/수납및의무기록발급"
+            }
+          },
+          "POI_x5F_B2345": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "외래원무파트사무실"
+            }
+          },
+          "POI_x5F_B2346": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "예약파트사무실"
+            }
+          },
+          "POI_x5F_B2347": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "갱의실"
+            }
+          },
+          "POI_x5F_B2348": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "물품보관실"
+            }
+          },
+          "POI_x5F_B2349": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "갱의실"
+            }
+          },
+          "POI_x5F_B2351": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "물품보관실"
+            }
+          },
+          "POI_x5F_B2352": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "채혈접수"
+            }
+          },
+          "POI_x5F_B2353": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "채혈실"
+            }
+          },
+          "POI_x5F_B2354": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "검체처리"
+            }
+          },
+          "POI_x5F_B2355": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "채뇨(여)"
+            }
+          },
+          "POI_x5F_B2357": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "채담실"
+            }
+          },
+          "POI_x5F_B2358": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "채담실"
+            }
+          },
+          "POI_x5F_B2358_1_": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "채뇨(남)"
+            }
+          },
+          "POI_x5F_B2359": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "갱의실"
+            }
+          },
+          "POI_x5F_B2360": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "A/V실"
+            }
+          },
+          "POI_x5F_B2361": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "전산실"
+            }
+          },
+          "POI_x5F_B2364": {
+            "attributes": {
+              "type": "4"
+            },
+            "name": {
+              "kr": "공용화장실남"
+            }
+          },
+          "POI_x5F_B2366": {
+            "attributes": {
+              "type": "5"
+            },
+            "name": {
+              "kr": "공용화장실여"
+            }
+          },
+          "POI_x5F_B2404": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실1"
+            }
+          },
+          "POI_x5F_B2405": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실2"
+            }
+          },
+          "POI_x5F_B2406": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실3"
+            }
+          },
+          "POI_x5F_B2407": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실4"
+            }
+          },
+          "POI_x5F_B2408": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실5"
+            }
+          },
+          "POI_x5F_B2409": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실6"
+            }
+          },
+          "POI_x5F_B2410": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실7"
+            }
+          },
+          "POI_x5F_B2411": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실8"
+            }
+          },
+          "POI_x5F_B2412": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실9"
+            }
+          },
+          "POI_x5F_B2413": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실10"
+            }
+          },
+          "POI_x5F_B2414": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "진료실11"
+            }
+          },
+          "POI_x5F_B2416": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "다용도실"
+            }
+          },
+          "POI_x5F_B2418": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "특수자극치료실"
+            }
+          },
+          "POI_x5F_B2419": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "인지재활치료실"
+            }
+          },
+          "POI_x5F_B2420": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "학생실습실"
+            }
+          },
+          "POI_x5F_B2421": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "통합예약창구"
+            }
+          },
+          "POI_x5F_B2422": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "정신치료1"
+            }
+          },
+          "POI_x5F_B2423": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "정신치료2"
+            }
+          },
+          "POI_x5F_B2424": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "정신치료3"
+            }
+          },
+          "POI_x5F_B2425": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "집단치료실"
+            }
+          },
+          "POI_x5F_B2426": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "임상심리1"
+            }
+          },
+          "POI_x5F_B2427": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "임상심리2"
+            }
+          },
+          "POI_x5F_B2428": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "임상심리3"
+            }
+          },
+          "POI_x5F_B2429": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "임상심리4"
+            }
+          },
+          "POI_x5F_B2430": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "신경인지기능검사실1"
+            }
+          },
+          "POI_x5F_B2431": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "신경인지기능검사실2"
+            }
+          },
+          "POI_x5F_B2432": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "신경인지기능검사실3"
+            }
+          },
+          "POI_x5F_B2433": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "전실"
+            }
+          },
+          "POI_x5F_B2434": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "스트레스관리실1"
+            }
+          },
+          "POI_x5F_B2435": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "스트레스관리실2"
+            }
+          },
+          "POI_x5F_B2436": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "전실"
+            }
+          },
+          "POI_x5F_B2437": {
+            "attributes": {
+              "type": "5"
+            },
+            "name": {
+              "kr": "화장실(여)"
+            }
+          },
+          "POI_x5F_B2438": {
+            "attributes": {
+              "type": "4"
+            },
+            "name": {
+              "kr": "화장실(남)"
+            }
+          },
+          "POI_x5F_B2439": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "정신건강의학과뇌파검사실"
+            }
+          },
+          "POI_x5F_B2440": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "판독실"
+            }
+          },
+          "POI_x5F_B2441": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "갱의실"
+            }
+          },
+          "POI_x5F_B2442": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "소독물실"
+            }
+          },
+          "POI_x5F_B2443": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "비소독물실"
+            }
+          },
+          "POI_x5F_B2444": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "ECT실"
+            }
+          },
+          "POI_x5F_B2445": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "정신병리평가실"
+            }
+          },
+          "POI_x5F_B2446": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "처치실"
+            }
+          },
+          "POI_x5F_B2447": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "간호사실"
+            }
+          },
+          "POI_x5F_B2448": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "그룹치료실"
+            }
+          },
+          "POI_x5F_B2449": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "정신건강의학과낮병동"
+            }
+          },
+          "POI_x5F_B2450": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "이완요법실"
+            }
+          },
+          "POI_x5F_B2451": {
+            "attributes": {
+              "type": "4"
+            },
+            "name": {
+              "kr": "화장실(남)"
+            }
+          },
+          "POI_x5F_B2452": {
+            "attributes": {
+              "type": "5"
+            },
+            "name": {
+              "kr": "화장실(여)"
+            }
+          },
+          "POI_x5F_B2453": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "소교육실"
+            }
+          },
+          "POI_x5F_B2454": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "면담실1"
+            }
+          },
+          "POI_x5F_B2455": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "면담실2"
+            }
+          },
+          "POI_x5F_B2456": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "면담실3"
+            }
+          },
+          "POI_x5F_B2477": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "간호사실"
+            }
+          },
+          "POI_x5F_B_x5F_2230": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "통합예약창구"
+            }
+          },
+          "POI_x5F_NOTDEFIEND": {
+            "attributes": {
+
+            },
+            "name": {
+              "kr": "대교육실"
+            }
+          },
+          "STAIRS_x5F_1": {
+            "attributes": {
+              "type": "1"
+            },
+            "name": {
+              "kr": "계단"
+            }
+          },
+          "STAIRS_x5F_2": {
+            "attributes": {
+              "type": "1"
+            },
+            "name": {
+              "kr": "계단"
+            }
+          },
+          "STAIRS_x5F_3": {
+            "attributes": {
+              "type": "1"
+            },
+            "name": {
+              "kr": "계단"
+            }
+          },
+          "STAIRS_x5F_4": {
+            "attributes": {
+              "type": "1"
+            },
+            "name": {
+              "kr": "계단"
+            }
+          },
+          "STAIRS_x5F_5": {
+            "attributes": {
+              "type": "1"
+            },
+            "name": {
+              "kr": "계단"
+            }
+          },
+          "STAIRS_x5F_6": {
+            "attributes": {
+              "type": "1"
+            },
+            "name": {
+              "kr": "계단"
+            }
+          }
+        },
+        "slamMapUrl": "seoul/dh/b2/slam_snuh_dh_b2.png",
+        "svgFileName": "snuh_dh_b2.svg"
+      }
+    },
+    "gps": {
+      "latitude": {
+        "type": "N",
+        "value": 3734422
+      },
+      "longitude": {
+        "type": "E",
+        "value": 12659561
+      }
+    },
+    "name": {
+      "en": "dh",
+      "kr": "대한외래"
+    },
+    "resources": {
+      "icons": {
+        "bathroombUrl": "seoul/resources/icons/bathroomb.png",
+        "bathroomgUrl": "seoul/resources/icons/bathroomg.png",
+        "escalatorUrl": "seoul/resources/icons/escalator.png",
+        "liftUrl": "seoul/resources/icons/lift.png",
+        "stairUrl": "seoul/resources/icons/stair.png"
+      },
+      "robots": {
+        "type1": {
+          "meshUrl": "seoul/resources/robots/snuh_robot_type_1.obj",
+          "mtlUrl": "seoul/resources/robots/snuh_robot_type_1.mtl",
+          "textureUrl": "seoul/resources/robots/snuh_robot_type_1.png"
+        }
+      }
+    },
+    "storage_bucket_name": "snuh",
+    "svg_map_key": "seoul/dh/svg.zip"
+  }
+}
